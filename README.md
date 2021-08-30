@@ -75,4 +75,4 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&redirect=true)
