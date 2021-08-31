@@ -69,10 +69,7 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 <!-- GitHub Readme Streak Stats - https://github.com/NickError404/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/NickError404/Div-Automation-By-Nick-8777">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NickError404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NickError404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=black-ice&hide_border=false"/>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kca8z2z0k598qyeu8y07ig2ml&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kca8z2z0k598qyeu8y07ig2ml&redirect=true)
