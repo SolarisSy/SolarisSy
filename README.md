@@ -75,4 +75,4 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kca8z2z0k598qyeu8y07ig2ml&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kca8z2z0k598qyeu8y07ig2ml&redirect=true)
