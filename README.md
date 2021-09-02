@@ -40,7 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ```text
 Python       3 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.82 % 
-Selenium     2 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
+JavaScript   2 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
 JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 <!--END_SECTION:waka-->
