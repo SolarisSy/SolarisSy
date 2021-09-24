@@ -68,7 +68,7 @@ JSON         45 mins          ▓░░░░░░░░░░░░░░░�
 
 <!-- GitHub Readme Streak Stats - https://github.com/NickError404/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/NickError404/Div-Automation-By-Nick-8777">
+  <a href="https://github.com/NickError404/Python-Study">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NickError404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=black-ice&hide_border=false"/>
 
 
