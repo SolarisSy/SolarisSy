@@ -62,5 +62,4 @@ JSON         45 mins          ▓░░░░░░░░░░░░░░░�
   <a href="https://github.com/NickError404/Python-Study">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NickError404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=black-ice&hide_border=false"/>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
