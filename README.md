@@ -18,7 +18,7 @@ hi, i'm Igor, a passionate self-taught full stack web developer from brazil. my 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="310" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="475" height="350" />
   
 - 💼 any freelance work? do reach, [email](mailto:nicklink.lv@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
