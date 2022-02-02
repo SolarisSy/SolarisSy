@@ -36,15 +36,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ![Metrics](https://metrics.lecoq.io/NickError404?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FFortaleza)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Python       3 hrs 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   53.82 % 
-JavaScript   34 hrs 54 mins   █████████████████░░░░░░░░   43.73 % 
-JSON         45 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
-<!--END_SECTION:waka-->
-
 📈 my github stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
