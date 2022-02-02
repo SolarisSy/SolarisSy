@@ -30,11 +30,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Metrics](https://metrics.lecoq.io/NickError404?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FFortaleza)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -50,16 +50,11 @@ JSON         45 mins          ▓░░░░░░░░░░░░░░░�
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NickError404&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NickError404&layout=compact&theme=material-palenight" />
 </a>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/NickError404/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/NickError404/Python-Study">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NickError404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=black-ice&hide_border=false"/>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    
