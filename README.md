@@ -5,8 +5,8 @@
 <a href="https://twitter.com/BorbaMilhomem">
   <img align="left" alt="NickError404 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/7gow5oletg6aug9ug67d68db1">
-  <img align="left" alt="NickError404's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.linkedin.com/in/igormilhomemborba/">
+  <img align="left" alt="NickError404's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NickError404.NickError404)
