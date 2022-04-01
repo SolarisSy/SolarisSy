@@ -39,9 +39,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NickError404&layout=compact&theme=material-palenight" />
 </a>
 
-<a>
-
-</a>
-  <img align="left" src="https://metrics.lecoq.io/NickError404?template=classic&isocalendar=1&stars=1&lines=1&followup=1&isocalendar.duration=half-year&stars.limit=4&followup.sections=repositories&followup.indepth=false&config.timezone=America%2FFortaleza">
-  
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)">
