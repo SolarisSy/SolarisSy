@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NickError404&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickError404&show_icons=true&theme=radical" />
 </a>
 
 <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)">
