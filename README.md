@@ -1,4 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left">
+    <a href="https://discord.com/users/943374631644045363">
+        <img title="Sarnax server discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/913595151627194519.png"/>
+    </a>
+</p>
 <a href="https://discord.gg/Swpj8HP6K3">
   <img align="left" alt="NickError404's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -43,9 +48,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </a>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)">
-
-  <p align="left">
-    <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax server discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/913595151627194519.png"/>
-    </a>
-</p>
