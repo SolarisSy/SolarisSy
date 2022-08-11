@@ -50,8 +50,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/SarnaxLii">
+    <a href="https://github.com/NickError404">
         <img title="NickError404 stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickError404&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NickError404"><img alt="NickError404's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickError404&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
