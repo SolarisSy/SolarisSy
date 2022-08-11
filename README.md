@@ -18,7 +18,7 @@ hi, i'm Igor, a passionate self-taught full stack web developer from brazil. my 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="475" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="475" height="350" />
   
 - 💼 any freelance work? do reach, [email](mailto:nicklink.lv@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -35,11 +35,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NickError404&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickError404&langs_count=8" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickError404&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NickError404&show_icons=true&theme=radical" />
 </a>
 
 <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=7gow5oletg6aug9ug67d68db1&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=false)">
