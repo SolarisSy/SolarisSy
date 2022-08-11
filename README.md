@@ -2,7 +2,7 @@
 <a href="https://discord.gg/Swpj8HP6K3">
   <img align="left" alt="NickError404's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/BorbaMilhomem">
+<a href="https://twitter.com/Nick_Solaris">
   <img align="left" alt="NickError404 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/igormilhomemborba/">
