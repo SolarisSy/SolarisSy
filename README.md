@@ -43,8 +43,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickError404&langs_count=8" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=NickError404&show_icons=true&theme=radical" />
+<a href="https://github.com/ryo-ma">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NickError404&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed" />
 </a>
 
+<h2 align="center">My github profile stastictics.</h2>
+
+<p align="center">
+    <a href="https://github.com/SarnaxLii">
+        <img title="NickError404 stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
 <a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickError404&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
