@@ -1,7 +1,7 @@
 <h2 align="center">Discord Profile</h2><br>
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax server discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/913595151627194519.png"/>
+        <img title="Nick Discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/913595151627194519.png"/>
     </a>
 </p>
 <a href="https://discord.gg/Swpj8HP6K3">
