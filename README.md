@@ -5,7 +5,7 @@
     </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=500&color=F7DF1A&multiline=true&height=75&lines=Vi+veri+veniversum+vivus+vici;Pelo+poder+da+verdade%2C+eu%2C+enquanto+vivo%2C;conquistei+o+universo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=15&duration=1000&pause=500&color=F7DF1A&multiline=true&height=75&lines=Vi+veri+veniversum+vivus+vici;Pelo+poder+da+verdade%2C+eu%2C+enquanto+vivo%2C;conquistei+o+universo)](https://git.io/typing-svg)
 
 <a href="https://discord.gg/Swpj8HP6K3">
   <img align="left" alt="NickError404's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
