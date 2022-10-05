@@ -1,4 +1,4 @@
-<h2 align="center">Discord Profile</h2><br>
+<h2 align="center">Discordd Profile</h2><br>
 <p align="left">
     <a href="https://discord.com/users/1007343822218477709">
         <img title="Nick Discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/1007343822218477709.png"/>
