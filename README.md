@@ -58,6 +58,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center">
     <a href="https://github.com/NickError404">
-        <img title="NickError404 stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="NickError404 stats" alt="Solaris Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
