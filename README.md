@@ -8,16 +8,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=15&duration=1000&pause=500&color=F7DF1A&multiline=true&height=75&lines=Vi+veri+veniversum+vivus+vici;Pelo+poder+da+verdade%2C+eu%2C+enquanto+vivo%2C;conquistei+o+universo)](https://git.io/typing-svg)
 
 <a href="https://discord.gg/Swpj8HP6K3">
-  <img align="left" alt="NickError404's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="SolarisSy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/Nick_Solaris">
-  <img align="left" alt="NickError404 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="SolarisSy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/igormilhomemborba/">
-  <img align="left" alt="NickError404's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
+  <img align="left" alt="SolarisSy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=NickError404.NickError404)
+![](https://visitor-badge.glitch.me/badge?page_id=SolarisSy.SolarisSy)
 
 <br />
 
@@ -47,17 +47,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickError404&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolarisSy&langs_count=8" />
 </a>
 
 <a href="https://github.com/ryo-ma">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=NickError404&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=SolarisSy&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed" />
 </a>
 
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/NickError404">
-        <img title="NickError404 stats" alt="Solaris Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickError404&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/SolarisSy">
+        <img title="SolarisSy stats" alt="Solaris Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SolarisSy&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
